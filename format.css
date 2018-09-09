@@ -1,0 +1,94 @@
+body{
+	background: #534D56;
+	font-family: "helvetica", "arial", "sans-serif";
+	}
+	
+#parent{
+	border: 1px solid #ffffff;
+	width: 80%;
+	height: 95%;
+	margin-left: auto;
+	margin-right: auto;/*centers region in browser*/
+	text-align: center;/*centers content in the region*/
+	padding: 10px;
+	box-sizing: border-box;/*compensates for padding enlargement*/
+	box-shadow: #656176 0px 0px 10px;
+	font-family: 'rubik', sans-serif;
+	}
+
+#header{
+	background: #DDD8C4;
+	width: 100%;
+	height: 16%;
+	margin-left: auto;
+	margin-right: auto;/*centers region in browser*/
+	text-align: center;/*centers content in the region*/
+	padding: 10px;
+	box-sizing: border-box;
+	border-radius: 10px;
+	}
+	
+#content{
+	background: #DDD8C4;
+	width: 100%;
+	height: 72%;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;/*centers region in browser*/
+	text-align: center;/*centers content in the region*/
+	padding: 10px;
+	box-sizing: border-box;
+	}
+	
+#footer{
+	background: #DDD8C4;
+	width: 100%;
+	height: 10%;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;/*centers region in browser*/
+	text-align: center;/*centers content in the region*/
+	padding: 30px;
+	box-sizing: border-box;
+	font-family: 'Courgette', cursive;
+	border-radius: 10px;
+	}
+	
+h1{
+	margin-top: 0px;
+	font-size: 2.8em;
+	font-family: 'Playfair Display SC', serif;
+	}
+	
+h2{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 1.7em;
+	}
+
+img {
+	display: inline-block;
+	margin: 25px 25px;
+	}
+	
+.pic1{
+	width: 50%;
+	border: 2px solid #ffffff;
+	}
+	
+.text1{
+	font-size: 1.4em;
+	color: #000000;
+	line-height: 1.5em;
+	text-align: justify;
+	padding-top: 8px;
+	padding-left: 10px;
+	font-family: 'rubik', sans-serif;
+	}
+	
+a:link{text-decoration: none; color: #ffffff; margin: 10px; background: #686963; padding: 6px; border-radius: 6px;}
+a:visited{text-decoration: none; color: #ffffff; margin: 10px; background: #686963; padding: 6px; border-radius: 6px;}
+a:active{text-decoration: none; color: #ffffff; margin: 10px; background: #686963; padding: 6px; border-radius: 6px;}
+a:hover{text-decoration: none; color: #ffffff; margin: 10px; background: #333333; padding: 6px; border-radius: 6px;}
+	
+	
